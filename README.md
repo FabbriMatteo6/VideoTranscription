@@ -15,7 +15,7 @@ This tool works by running small blocks of code in order. Just follow the steps 
 
 ### Step 1: Open the Tool
 
-1. Click on the `Google Colab` logo available on top of the 'Video_Transcription..' file. This will open a new tab in your web browser and take you to a Google Colab page.
+1. Click on the `Google Colab` link available on top of the README file. This will open a new tab in your web browser and take you to a Google Colab page.
 2. On the "Connect" button on the top right, select the little downward triangle and click on "Change Runtime type". Select the T4 option for best performances.
 3. To start the Runtime, click "Connect"
 
