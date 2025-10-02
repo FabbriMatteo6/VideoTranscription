@@ -1,4 +1,17 @@
-# Video Transcription Tool
+# Video Transcription Tool | 
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/FabbriMatteo6/VideoTranscription/blob/main/Video_Transcription_with_Whisper.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },]
+}
 
 This tool takes a video file and automatically writes out the spoken words into a text file. It uses a powerful transcription model called Whisper to do this. You don't need to install any software on your computer.
 
