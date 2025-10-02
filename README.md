@@ -1,4 +1,4 @@
-# Video Transcription Tool | 
+# Video Transcription Tool 
 
 **Source**: [https://colab.research.google.com/github/FabbriMatteo6/VideoTranscription/blob/main/Video_Transcription_with_Whisper.ipynb](https://colab.research.google.com/drive/1u8xoK-PGrmXTdTc-5rjVJTD4JqgKAFZM?usp=sharing)
 
@@ -15,8 +15,9 @@ This tool works by running small blocks of code in order. Just follow the steps 
 
 ### Step 1: Open the Tool
 
- Click on the `Google Colab` logo available on top of the 'Video_Transcription..' file.  
- This will open a new tab in your web browser and take you to a Google Colab page.
+1. Click on the `Google Colab` logo available on top of the 'Video_Transcription..' file. This will open a new tab in your web browser and take you to a Google Colab page.
+2. On the "Connect" button on the top right, select the little downward triangle and click on "Change Runtime type". Select the T4 option for best performances.
+3. To start the Runtime, click "Connect"
 
 ### Step 2: Run the Setup
 
