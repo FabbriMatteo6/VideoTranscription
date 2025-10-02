@@ -1,6 +1,6 @@
 # Video Transcription Tool | 
 
-**Source**: https://colab.research.google.com/github/FabbriMatteo6/VideoTranscription/blob/main/Video_Transcription_with_Whisper.ipynb
+**Source**: [https://colab.research.google.com/github/FabbriMatteo6/VideoTranscription/blob/main/Video_Transcription_with_Whisper.ipynb](https://colab.research.google.com/drive/1u8xoK-PGrmXTdTc-5rjVJTD4JqgKAFZM?usp=sharing)
 
 This tool takes a video file and automatically writes out the spoken words into a text file. It uses a powerful transcription model called Whisper to do this. You don't need to install any software on your computer.
 
